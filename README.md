@@ -3,7 +3,7 @@
 - 👀 I’m interested in SIEM and SOAR integration, Machine learning, Data driven CNAPP and CWPP
 - 🌱 I’m currently learning Phyton, ML and AI 
 - 💞️ I’m looking to collaborate on SIEM integration cloud datasources like  CNAPP and CWPP
-- 📫 How to reach me via email 
+- 📫 How to reach me; via email 
 
 <!---
 FransVI66/FransVI66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

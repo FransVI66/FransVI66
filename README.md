@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frans van Ierland
-- :) Iam Ex Phoenox, SUn Microssystems, Microsoft, Splunk 
+- :) Iam Ex Phoenix Tech. , SUn Microssystems, Microsoft, Splunk 
 - 👀 I’m interested in SIEM and SOAR integration, Machine learning, Data driven CNAPP and CWPP
 - 🌱 I’m currently learning Phyton, ML and AI 
 - 💞️ I’m looking to collaborate on SIEM integreations for CNAPP and CWPP

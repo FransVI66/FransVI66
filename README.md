@@ -2,7 +2,7 @@
 - :) Iam Ex Phoenix Tech. , SUn Microsystems, Microsoft, Splunk 
 - 👀 I’m interested in SIEM and SOAR integration, Machine learning, Data driven CNAPP and CWPP
 - 🌱 I’m currently learning Phyton, ML and AI 
-- 💞️ I’m looking to collaborate on SIEM integreations for CNAPP and CWPP
+- 💞️ I’m looking to collaborate on SIEM integration cloud datasources like  CNAPP and CWPP
 - 📫 How to reach me via email 
 
 <!---
